@@ -22,4 +22,4 @@ A simple command-line Tic-Tac-Toe game implemented in Python. This project demon
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/TicTacToe.git
+   git clone https://github.com/joshua14134/TicTacToe.git
